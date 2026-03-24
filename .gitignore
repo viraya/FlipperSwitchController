@@ -1,0 +1,24 @@
+# ESP32 WiFi credentials (contains passwords)
+esp32_bridge/wifi_config.h
+
+# Flipper build output
+flipper/switch_controller/dist/
+flipper/switch_controller/.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
